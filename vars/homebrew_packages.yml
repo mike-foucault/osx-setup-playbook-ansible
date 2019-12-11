@@ -1,0 +1,43 @@
+homebrew_installed_packages:
+  - ansible
+  - git
+  - heroku
+  - postgres                   
+  - redis                      
+  - terminal-notifier
+  - tmux                       
+  - vim                        
+  - wget                       
+  - youtube-dl                 
+  - zsh 
+  - fswatch
+  - parity                     
+
+  # - autojump                   
+  # - csv-fix                    
+  # - ctags                      
+  # - diff-so-fancy              
+  # - fpp                        
+  # - fswatch                    
+  # - fzf                        
+  # - htop-osx                   
+  # - hub                        
+  # - imagemagick                
+  # - jq                         
+  # - jrnl                       
+  # - mas                        
+  # - openssl                    
+  # - libyaml                    
+  # - pgcli                      
+  # - phantomjs                  
+  # - qt                         
+  # - rcm                        
+  # - reattach-to-user-namespace   
+  # - textql                     
+  # - the_silver_searcher        
+  # - thefuck                    
+  # - tig                        
+  # - tree                       
+  # - elasticsearch
+  # - kibana
+  # - csvkit

@@ -1,0 +1,9 @@
+---
+- hosts: localhost
+  connection: local
+  vars_files:
+    - vars/homebrew_taps.yml
+    - vars/homebrew_packages.yml
+    - vars/homebrew_cask_apps.yml
+  roles:
+    - geerlingguy.homebrew
