@@ -1,0 +1,58 @@
+homebrew_cask_apps:
+  - iterm2           # terminal
+  - skype            # video / audio communication
+  - zoomus
+  - slack            # instant messages
+  - discord
+  - flux             # help stop coding at night
+  - appcleaner       # install cleanly apps
+  - google-chrome    # browser
+  - firefox          # browser
+  - istat-menus      # mac metrics in menu bar
+  - lastpass
+  - genymotion
+
+
+  # - alfred           # quick search bar
+  # - atext            # text expander
+  # - atom             # text editor
+  # - backblaze        # backup solution
+  # - bartender        # organize menu bar apps
+  # - bettertouchtool  # windows snapping + custom shortcut
+  # - caffeine         # don't sleep
+  # - clipmenu         # clipboard menu
+  # - dash             # offline code documentations
+  # - dashlane         # password manager
+  # - disk-inventory-x # view where hd space goes
+  # - docker           # run containers
+  # - hazel            # mac automation tool
+  # - imageoptim       # makes images load faster
+  # - kitematic        # docker store
+  # - libreoffice      # open Word, Excell files
+  # - livereload       # livereload server for autoreloading
+  # - noizio           # ambiant noises, great for productivity
+  # - nvalt            # note taking in plain text
+  # - paw              # best gui http client
+  # - rescuetime       # track where time goes
+  # - spotify          # get some music
+  # - sqlitebrowser    # sqlite gui
+  # - virtualbox       # virtual machines
+  # - vlc              # media player
+
+  # - mou              # markdown editor
+  # - toggldesktop     # app tracking
+  # - karabiner        # key remapping software
+  # - quitter          # quit inactive apps
+  # - transmit         # fpt client
+  # - xccello          # trello desktop app
+
+  # - charles           # packets inspector only on mac
+  # - calibre           # converting pdf to epub
+  # - wireshark         # packets inspector
+  # - doxie             # portable scanner
+  # - ccmenu            # check ci build status
+  # - contexts          # alt tab switching https://contexts.co/
+  # - freemind          # mindmapping app multiplateform
+  # - licecap           # record gif, monosnap seems better
+  # - mindnode-pro      # mind mapping, install through app store
+  # - path-finder       # better finder... heavy

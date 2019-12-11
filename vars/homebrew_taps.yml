@@ -1,0 +1,4 @@
+homebrew_taps:
+  - homebrew/core
+  - heroku/brew
+  - thoughtbot/formulae # for parity, rcm,...
